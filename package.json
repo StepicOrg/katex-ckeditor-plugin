@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor-katex-plugin",
+  "name": "katex-ckeditor-plugin",
   "version": "1.0.0",
   "description": "Math plugin: KaTeX widget for CKEditor 4",
   "scripts": {
