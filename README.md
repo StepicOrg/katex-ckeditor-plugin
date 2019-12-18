@@ -1,4 +1,5 @@
 KaTeX plugin for CKEditor 4
+&nbsp; ![npm](https://img.shields.io/npm/v/ckeditor-katex-plugin?style=flat-square)
 ----------------
 
 ### Installation:
