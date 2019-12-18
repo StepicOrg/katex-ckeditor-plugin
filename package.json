@@ -1,0 +1,11 @@
+{
+  "name": "ckeditor-katex-plugin",
+  "version": "1.0.0",
+  "description": "Math plugin: KaTeX widget for CKEditor 4",
+  "keywords": [
+    "ckeditor4",
+    "ckeditor"
+  ],
+  "author": "StepicOrg",
+  "license": "MIT"
+}
