@@ -1,15 +1,18 @@
 KaTeX plugin for CKEditor 4
 ----------------
 
-##### Installation:
+### Installation:
+
 - Copy files to the "plugins" folder of CKEditor,
   then add `config.extraPlugins = 'katex';` in config.js.
+
+  Please note, source code is ECMAScript 2016+. If you need to support old
+  browsers, transpile the code by running `npm run build`, then use `dist/` folder.
+
 - Or use official builder "https://ckeditor.com/cke4/builder".
 
-Please note, source code is ECMAScript 2016+. If you need to support old
-browsers, transpile the code on your own.
+### Configuration:
 
-##### Configuration:
 ```js
 // [Required] Pathes to the CSS and JS files of katex library.
 config.katexLibCss = '';

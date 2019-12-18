@@ -2,10 +2,18 @@
   "name": "ckeditor-katex-plugin",
   "version": "1.0.0",
   "description": "Math plugin: KaTeX widget for CKEditor 4",
+  "scripts": {
+    "build": "./scripts/build"
+  },
   "keywords": [
     "ckeditor4",
     "ckeditor"
   ],
   "author": "StepicOrg",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4"
+  }
 }

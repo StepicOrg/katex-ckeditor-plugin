@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf dist
+npx babel . --out-dir dist --ignore node_modules,dist
+cp -r icons dist
