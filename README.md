@@ -29,3 +29,8 @@ config.katexDelimiters = [...];
 // Additional options to pass into `katex.renderToString`.
 config.katexOptions = {...};
 ```
+
+### Screenshots:
+
+![image](https://user-images.githubusercontent.com/4932134/71089547-eb1ade00-21c2-11ea-82c0-d5bfa8136d71.png)
+![image](https://user-images.githubusercontent.com/4932134/71089560-f5d57300-21c2-11ea-8334-cf3af20fc3ba.png)
